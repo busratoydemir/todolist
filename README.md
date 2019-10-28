@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #To-Do List App
 This is a simple MVC To-Do List app.
 
@@ -53,4 +52,3 @@ From Visual Studio, open the mvcToDoList.sln file from the root directory.
 In Visual Studio Build menu, select Build Solution (or Press F6).
 
 You can now run and debug the application locally by pressing F5 in Visual Studio.
->>>>>>> 0f620fc6a50b911115256f745f539587ca3c61cb
